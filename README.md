@@ -8,7 +8,7 @@
 * This application can summon cmd.exe in the folder where you place it with just pressing "<b>ENTER</b>" button after you launch it.
 
 * The second function is to start console applications directly in his interface, what that mean is, if you rename it to "<b>_targetappname.exe</b>" it will act as the console application to which you rename it.
-<br /><br />EXAMPLE: If you rename it to _adb.exe (Android Debug Bridge) it will act the same way as if you use adb.exe in CMD, but you don't need to enter every time "adb devices", just "devices" and it will know that you are using adb automaticaly.
+<br /><br /><b>EXAMPLE:</b> If you rename it to _adb.exe (Android Debug Bridge) it will act the same way as if you use adb.exe in CMD, but you don't need to enter every time "adb devices", just "devices" and it will know that you are using adb automaticaly.
 
 <br />
 
