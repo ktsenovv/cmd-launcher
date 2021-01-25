@@ -28,7 +28,7 @@
 
 <br />
 
-* Use it as any console application: Put "<b>_cmd.exe</b>" in the directory where you want to launch it. Rename it to "_targetappname.exe", where targetappname is the name of the console application you want to use with CMD Launcher. Start the renamed application and you are ready to type commands.<br />
+* Use it as any console application: Put "<b>_cmd.exe</b>" in the directory where you want to launch it. Rename it to "<b>_targetappname.exe</b>", where targetappname is the name of the console application you want to use with CMD Launcher. Start the renamed application and you are ready to type commands.<br />
 [Check <b>"Picture #2"</b>](#milky_way-preview)
 
 <br />
