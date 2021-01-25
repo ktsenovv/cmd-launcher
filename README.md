@@ -19,7 +19,7 @@
 # :cd: Install
 
 * Use it as cmd: Put "<b>_cmd.exe</b>" in the directory where you want to launch it. Start "<b>_cmd.exe</b>" and just press "<b>ENTER</b>" button.<br />
-Check <b>"Picture #1"</b>.
+[Check <b>"Picture #1"</b>](#milky_way-preview).
 
 <br />
 
