@@ -1,3 +1,8 @@
+# Navigation
+[ [<b>DESCRIPTION</b>](#-cmd-launcher-v10) • [<b>PREVIEW</b>](#milky_way-preview) • [<b>INSTALL</b>](#milky_way-preview) • [<b>DOWNLOAD</b>](#milky_way-preview) • [<b>CHANGELOG</b>](#milky_way-preview) • [<b>COPYRIGHT</b>](#milky_way-preview) ]
+
+<br />
+
 # <img src="https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/icon.ico" width="35px" height="35px"> CMD Launcher v1.0
 
 * This application can summon cmd.exe in the folder where you place it with just pressing "<b>ENTER</b>" button after you launch it.
