@@ -19,12 +19,12 @@
 # :cd: Install
 
 * Use it as cmd: Put "<b>_cmd.exe</b>" in the directory where you want to launch it. Start "<b>_cmd.exe</b>" and just press "<b>ENTER</b>" button.<br />
-[Check <b>"Picture #1"</b>](#milky_way-preview).
+[Check <b>"Picture #1"</b>](#milky_way-preview)
 
 <br />
 
 * Use it as any console application: Put "<b>_cmd.exe</b>" in the directory where you want to launch it. Rename it to "_targetappname.exe", where targetappname is the name of the console application you want to use with CMD Launcher. Start the renamed application and you are ready to type commands.<br />
-Check <b>"Picture #2"</b>.
+[Check <b>"Picture #2"</b>](#milky_way-preview)
 
 <br />
 
