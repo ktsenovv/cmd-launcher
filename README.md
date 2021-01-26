@@ -3,7 +3,7 @@
 
 <br />
 
-# <img src="https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/icon.ico" width="35px" height="35px"> CMD Launcher v1.0
+# <img src="https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/icon.ico" width="35px" height="35px"> CMD Launcher v1.0 [[↑]](#navigation)
 
 * This application can summon cmd.exe in the folder where you place it with just pressing "<b>ENTER</b>" button after you launch it.
 
