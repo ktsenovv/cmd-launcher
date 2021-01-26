@@ -1,5 +1,5 @@
 # Navigation
-[ [<b>DESCRIPTION</b>](#-cmd-launcher-v10) • [<b>PREVIEW</b>](#milky_way-preview) • [<b>INSTALL</b>](#cd-install) • [<b>DOWNLOAD</b>](#arrow_down-download) • [<b>CHANGELOG</b>](#scroll-changelog) • [<b>COPYRIGHT</b>](#copyright-copyright) ]
+[ [<b>DESCRIPTION</b>](#-cmd-launcher-v10-) • [<b>PREVIEW</b>](#milky_way-preview-) • [<b>INSTALL</b>](#cd-install-) • [<b>DOWNLOAD</b>](#arrow_down-download-) • [<b>CHANGELOG</b>](#scroll-changelog-) • [<b>COPYRIGHT</b>](#copyright-copyright-) ]
 
 <br />
 
