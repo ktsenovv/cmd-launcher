@@ -3,7 +3,7 @@
 
 <br />
 
-# <img src="https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/icon.ico" width="35px" height="35px"> CMD Launcher v1.0 [[↑]](#navigation)
+# <img src="https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/icon.ico" width="35px" height="35px"> CMD Launcher v1.0 [[↑]](#navigation "Go to Navigation")
 
 * This application can summon cmd.exe in the folder where you place it with just pressing "<b>ENTER</b>" button after you launch it.
 
@@ -12,7 +12,7 @@
 
 <br />
 
-# :milky_way: Preview [[↑]](#navigation)
+# :milky_way: Preview [[↑]](#navigation "Go to Navigation")
 ![alt text](https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/Preview/Preview%2001.png)
 (Picture #1)
 
@@ -21,7 +21,7 @@
 
 <br />
 
-# :cd: Install [[↑]](#navigation)
+# :cd: Install [[↑]](#navigation "Go to Navigation")
 
 * Use it as cmd: Put "<b>_cmd.exe</b>" in the directory where you want to launch it. Start "<b>_cmd.exe</b>" and just press "<b>ENTER</b>" button.<br />
 [Check <b>"Picture #1"</b>](#milky_way-preview)
@@ -33,17 +33,17 @@
 
 <br />
 
-# :arrow_down: Download [[↑]](#navigation)
+# :arrow_down: Download [[↑]](#navigation "Go to Navigation")
 * <b>[Latest version](https://github.com/kcenow/CMD-Launcher/releases/tag/v1.0 "Latest version")</b>
 * <b>[All versions](https://github.com/kcenow/CMD-Launcher/releases "All versions")</b>
 
 <br />
 
-# :scroll: Changelog [[↑]](#navigation)
+# :scroll: Changelog [[↑]](#navigation "Go to Navigation")
 <b>1.0:</b>	First Release.
 
 <br />
 
-# :copyright: Copyright [[↑]](#navigation)
+# :copyright: Copyright [[↑]](#navigation "Go to Navigation")
 © kcenow. All rights reserved. This application is not affiliated with Windows® or © Microsoft Corporation.<br />
 CMD® and all related elements are trademarks of and © Microsoft Corporation.
