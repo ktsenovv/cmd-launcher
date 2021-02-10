@@ -1,5 +1,5 @@
 # Navigation
-[ [<b>DESCRIPTION</b>](#-cmd-launcher-v10-) • [<b>PREVIEW</b>](#milky_way-preview-) • [<b>INSTALL</b>](#cd-install-) • [<b>DOWNLOAD</b>](#arrow_down-download-) • [<b>CHANGELOG</b>](#scroll-changelog-) • [<b>COPYRIGHT</b>](#copyright-copyright-) ]
+<p align="center">[ <b><a href="#-cmd-launcher-v10-">DESCRIPTION</a></b> • <b><a href="#milky_way-preview-">PREVIEW</a></b> • <b><a href="#cd-install-">INSTALL</a></b> • <b><a href="#arrow_down-download-">DOWNLOAD</a></b> • <b><a href="#scroll-changelog-">CHANGELOG</a></b> • <b><a href="#copyright-copyright-">COPYRIGHT</a></b> ]</p>
 
 <br />
 
