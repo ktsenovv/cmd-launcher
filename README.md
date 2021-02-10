@@ -40,7 +40,7 @@
 <br />
 
 # :scroll: Changelog [[↑]](#navigation "Go to Navigation")
-<b>1.0:</b>	First Release.
+<b>v1.0:</b>	First Release.
 
 <br />
 
