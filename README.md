@@ -41,6 +41,7 @@
 <br />
 
 <h1>:scroll: Changelog <a href="#-cmd-launcher" alt="Go to Navigation">[↑]</a></h1>
+
 <b>[v1.0:](https://github.com/kcenow/CMD-Launcher/releases/tag/v1.0 "Latest version")</b>	First Release.
 
 <br />
