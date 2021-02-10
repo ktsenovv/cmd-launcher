@@ -3,7 +3,7 @@
 
 <br />
 
-<h1>:page_facing_up: Description <a href="#" alt="Go to Navigation">[↑]</a></h1>
+<h1>:page_facing_up: Description <a href="#-cmd-launcher" alt="Go to Navigation">[↑]</a></h1>
 
 * This application can summon cmd.exe in the folder where you place it with just pressing "<b>ENTER</b>" button after you launch it.
 
@@ -12,7 +12,7 @@
 
 <br />
 
-# :milky_way: Preview [[↑]](#navigation "Go to Navigation")
+<h1>:milky_way: Preview <a href="#-cmd-launcher" alt="Go to Navigation">[↑]</a></h1>
 <h4><img src="https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/Preview/Preview%2001.png">
 (Picture #1)</h4>
 
@@ -21,7 +21,7 @@
 
 <br />
 
-# :cd: Install [[↑]](#navigation "Go to Navigation")
+<h1>:cd: Install <a href="#-cmd-launcher" alt="Go to Navigation">[↑]</a></h1>
 
 * Use it as cmd: Put "<b>_cmd.exe</b>" in the directory where you want to launch it. Start "<b>_cmd.exe</b>" and just press "<b>ENTER</b>" button.<br />
 [Check <b>"Picture #1"</b>](#picture-1)
@@ -33,17 +33,18 @@
 
 <br />
 
-# :arrow_down: Download [[↑]](#navigation "Go to Navigation")
+<h1>:arrow_down: Download <a href="#-cmd-launcher" alt="Go to Navigation">[↑]</a></h1>
+
 * <b>[Latest version](https://github.com/kcenow/CMD-Launcher/releases/tag/v1.0 "Latest version")</b>
 * <b>[All versions](https://github.com/kcenow/CMD-Launcher/releases "All versions")</b>
 
 <br />
 
-# :scroll: Changelog [[↑]](#navigation "Go to Navigation")
+<h1>:scroll: Changelog <a href="#-cmd-launcher" alt="Go to Navigation">[↑]</a></h1>
 <b>[v1.0:](https://github.com/kcenow/CMD-Launcher/releases/tag/v1.0 "Latest version")</b>	First Release.
 
 <br />
 
-# :copyright: Copyright [[↑]](#navigation "Go to Navigation")
+<h1>:copyright: Copyright <a href="#-cmd-launcher" alt="Go to Navigation">[↑]</a></h1>
 © kcenow. All rights reserved. This application is not affiliated with Windows® or © Microsoft Corporation.<br />
 CMD® and all related elements are trademarks of and © Microsoft Corporation.
