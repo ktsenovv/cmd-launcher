@@ -1,4 +1,4 @@
-# Navigation
+<h1 align="center">Navigation</h1>
 <p align="center">[ <b><a href="#-cmd-launcher-v10-">DESCRIPTION</a></b> • <b><a href="#milky_way-preview-">PREVIEW</a></b> • <b><a href="#cd-install-">INSTALL</a></b> • <b><a href="#arrow_down-download-">DOWNLOAD</a></b> • <b><a href="#scroll-changelog-">CHANGELOG</a></b> • <b><a href="#copyright-copyright-">COPYRIGHT</a></b> ]</p>
 
 <br />
