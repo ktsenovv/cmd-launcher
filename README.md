@@ -40,7 +40,7 @@
 <br />
 
 # :scroll: Changelog [[↑]](#navigation "Go to Navigation")
-<b>v1.0:</b>	First Release.
+<b>[v1.0:](https://github.com/kcenow/CMD-Launcher/releases/tag/v1.0 "Latest version")</b>	First Release.
 
 <br />
 
