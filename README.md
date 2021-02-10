@@ -1,9 +1,9 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/icon.ico" width="35px" height="35px"> CMD Launcher</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/icon.ico" width="35px" height="35px"> CMD Launcher v1.0</h1>
 <p align="center"><b><a href="#page_facing_up-description-">:page_facing_up:DESCRIPTION</a> • <a href="#milky_way-preview-">:milky_way:PREVIEW</a> • <a href="#cd-install-">:cd:INSTALL</a> • <a href="#arrow_down-download-">:arrow_down:DOWNLOAD</a> • <a href="#scroll-changelog-">:scroll:CHANGELOG</a> • <a href="#copyright-copyright-">:copyright:COPYRIGHT</a></b></p>
 
 <br />
 
-<h1>:page_facing_up: Description <a href="#" title="Go to Navigation">[↑]</a></h1>
+<h1>:page_facing_up: Description <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
 
 * This application can summon cmd.exe in the folder where you place it with just pressing "<b>ENTER</b>" button after you launch it.
 
