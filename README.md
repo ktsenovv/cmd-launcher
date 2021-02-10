@@ -3,7 +3,7 @@
 
 <br />
 
-<h1>:page_facing_up: Description <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
+<h1>:page_facing_up: Description <a href="#" title="Go to Navigation">[↑]</a></h1>
 
 * This application can summon cmd.exe in the folder where you place it with just pressing "<b>ENTER</b>" button after you launch it.
 
