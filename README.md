@@ -13,11 +13,11 @@
 <br />
 
 # :milky_way: Preview [[↑]](#navigation "Go to Navigation")
-![alt text](https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/Preview/Preview%2001.png)
-(Picture #1)
+<h4>(Picture #1)</h4>
+<img src="https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/Preview/Preview%2001.png">
 
-![alt text](https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/Preview/Preview%2002.png)
-(Picture #2)
+<h4>(Picture #2)</h4>
+<img src="https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/Preview/Preview%2002.png">
 
 <br />
 
