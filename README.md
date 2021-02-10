@@ -1,9 +1,9 @@
-<h2 align="center">NAVIGATION</h1>
-<p align="center"><b><a href="#-cmd-launcher-v10-"><img src="https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/icon.ico" width="20px" height="20px">DESCRIPTION</a> • <a href="#milky_way-preview-">:milky_way:PREVIEW</a> • <a href="#cd-install-">:cd:INSTALL</a> • <a href="#arrow_down-download-">:arrow_down:DOWNLOAD</a> • <a href="#scroll-changelog-">:scroll:CHANGELOG</a> • <a href="#copyright-copyright-">:copyright:COPYRIGHT</a></b></p>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/icon.ico" width="35px" height="35px"> CMD Launcher v1.0</h1>
+<p align="center"><b><a href="#-cmd-launcher-v10-">:page_facing_up:DESCRIPTION</a> • <a href="#milky_way-preview-">:milky_way:PREVIEW</a> • <a href="#cd-install-">:cd:INSTALL</a> • <a href="#arrow_down-download-">:arrow_down:DOWNLOAD</a> • <a href="#scroll-changelog-">:scroll:CHANGELOG</a> • <a href="#copyright-copyright-">:copyright:COPYRIGHT</a></b></p>
 
 <br />
 
-# <img src="https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/icon.ico" width="35px" height="35px"> CMD Launcher v1.0 [[↑]](#navigation "Go to Navigation")
+<h1>:page_facing_up: DESCRIPTION <a href="#" alt="Go to Navigation">[↑]</a></h1>
 
 * This application can summon cmd.exe in the folder where you place it with just pressing "<b>ENTER</b>" button after you launch it.
 
