@@ -1,9 +1,9 @@
 @echo off
 rem [ SETTINGS ]==========================================================
 set AppName=CMD Launcher
-set AppAuthor=kcenow
-set AppVersion=v1.0
-set AppWeb=https://kcenow.com
+::set AppAuthor=kcenow
+::set AppVersion=v1.0
+::set AppWeb=https://kcenow.com
 set AppNameNum=1
 rem ======================================================================
 
