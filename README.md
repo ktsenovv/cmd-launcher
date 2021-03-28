@@ -47,5 +47,4 @@
 <br />
 
 <h1>:copyright: Copyright <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
-© KC &#128640; Kristian Cenow. All rights reserved. This application is not affiliated with Windows® or © Microsoft Corporation.<br />
-CMD® and all related elements are trademarks of and © Microsoft Corporation.
+© KC &#128640; Kristian Cenow. All rights reserved. This application is not affiliated with Windows® or © Microsoft Corporation. CMD® and all related elements are trademarks of and © Microsoft Corporation.
