@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/src/icon.ico" width="35px" height="35px"> CMD Launcher</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/kcenow/cmd-launcher/main/src/icon.ico" width="35px" height="35px"> CMD Launcher</h1>
 <p align="center"><b><a href="#page_facing_up-description-">:page_facing_up:DESCRIPTION</a> • <a href="#milky_way-preview-">:milky_way:PREVIEW</a> • <a href="#cd-install-">:cd:INSTALL</a> • <a href="#arrow_down-download-">:arrow_down:DOWNLOAD</a> • <a href="#scroll-changelog-">:scroll:CHANGELOG</a> • <a href="#copyright-copyright-">:copyright:COPYRIGHT</a></b></p>
 
 <br />
@@ -13,10 +13,10 @@
 <br />
 
 <h1>:milky_way: Preview <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
-<h4><img src="https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/preview/preview_01.png">
+<h4><img src="https://raw.githubusercontent.com/kcenow/cmd-launcher/main/preview/preview_01.png">
 (Picture #1)</h4>
 
-<h4><img src="https://raw.githubusercontent.com/kcenow/CMD-Launcher/main/preview/preview_02.png">
+<h4><img src="https://raw.githubusercontent.com/kcenow/cmd-launcher/main/preview/preview_02.png">
 (Picture #2)</h4>
 
 <br />
@@ -35,14 +35,14 @@
 
 <h1>:arrow_down: Download <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
 
-* <b>[Latest version](https://github.com/kcenow/CMD-Launcher/releases/tag/v1.0 "Latest version")</b>
-* <b>[All versions](https://github.com/kcenow/CMD-Launcher/releases "All versions")</b>
+* <b>[Latest version](https://github.com/kcenow/cmd-launcher/releases/tag/v1.0 "Latest version")</b>
+* <b>[All versions](https://github.com/kcenow/cmd-launcher/releases "All versions")</b>
 
 <br />
 
 <h1>:scroll: Changelog <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
 
-<b>[v1.0:](https://github.com/kcenow/CMD-Launcher/releases/tag/v1.0 "Latest version")</b>	First Release.
+<b>[v1.0:](https://github.com/kcenow/cmd-launcher/releases/tag/v1.0 "Latest version")</b>	First Release.
 
 <br />
 
