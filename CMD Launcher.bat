@@ -1,22 +1,36 @@
 @echo off
 rem [ SETTINGS ]==========================================================
 set AppName=CMD Launcher
-::set AppAuthor=kcenow
-::set AppVersion=v1.0
-::set AppWeb=https://kcenow.com
-set AppNameNum=1
+::set AppAuthor=Kristian Cenov
+::set AppVersion=v2025.04.06
+::set AppWeb=kcenow.com
 rem ======================================================================
 
 rem [REGISTER]============================================================
-for /f "tokens=%AppNameNum% delims=_" %%i in ("%~n0") do set ProgramName=%%i
+:: Check if application exist, else use it as cmd.exe
+for /f "tokens=1 delims=_" %%i in ("%~n0") do set ProgramName=%%i
+if "%AppName%" == "%ProgramName%" (title %AppName% & cmd)
+
 title %AppName% [%ProgramName%.exe]
 rem ======================================================================
 
-rem [ FUNCTION ]==========================================================
-:FUNC_CMD
-set /p cmd="%ProgramName%>" 
-%ProgramName% %cmd%
-set "cmd="
-echo.
-goto FUNC_CMD
+rem [ MAIN ]==============================================================
+:repeat
+:: User input command
+set /p Input="%ProgramName%>"
+
+:: Clear commands
+if "%Input%" == "cls" (cls & goto reset)
+if "%Input%" == "clear" (cls & goto reset)
+if "%Input%" == "clean" (cls & goto reset)
+
+:: Execute inputed command
+%ProgramName% %Input%
+
+:reset
+:: Reset input
+set "Input="
+
+:: Repeat
+goto repeat
 rem ======================================================================
