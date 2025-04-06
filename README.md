@@ -35,14 +35,14 @@
 
 <h1>:arrow_down: Download <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
 
-* <b>[Latest version](https://github.com/kcenow/cmd-launcher/releases/tag/v1.0 "Latest version")</b>
+* <b>[Latest version](https://github.com/kcenow/cmd-launcher/releases/tag/v2025.04.06 "Latest version")</b>
 * <b>[All versions](https://github.com/kcenow/cmd-launcher/releases "All versions")</b>
 
 <br />
 
 <h1>:scroll: Changelog <a href="#-cmd-launcher" title="Go to Navigation">[↑]</a></h1>
 
-<b>[v1.0:](https://github.com/kcenow/cmd-launcher/releases/tag/v1.0 "Latest version")</b>	First Release.
+<b>[v2025.04.06:](https://github.com/kcenow/cmd-launcher/releases/tag/v2025.04.06 "Latest version")</b>	First Release.
 
 <br />
 
